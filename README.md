@@ -40,7 +40,7 @@
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>cd $HOME && git clone https://github.com/mohammadrezatitan/parsol.git && cd parsol && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
+<span>cd $HOME && git clone https://github.com/TitanTeams/Titanbot && cd Titanbot && chmod +x Titan.sh && ./Titan.sh install && ./Titan.sh 
 </span>
 </pre>
 <hr>
@@ -58,13 +58,13 @@
 <pre>
 <span>killall screen</span>
 <span>killall .telegram-cli</span>
-<span>cd parsol</span>
-<span>screen ./parsol.sh</span>
+<span>cd Titanbot</span>
+<span>screen ./Titan.sh</span>
 </pre>
-<h6 dir="rtl">ابتدا یک توکن از @botfather دریافت کنید سپس توکن رو به جای عبارت [token] در auto.sh قرار دهید و کد های زیر را در ترمینال وارد کنید
 <h5 dir="rtl">اتولانچ (بدون خاموشی)
+<h6 dir="rtl">ابتدا یک توکن از @botfather دریافت کنید سپس توکن رو به جای عبارت [token] در auto.sh قرار دهید و کد های زیر را در ترمینال وارد کنید
 <pre>
-cd parsol
+cd Titanbot
 chmod +x ./auto.sh
 screen ./auto.sh
 </pre>
@@ -73,18 +73,12 @@ screen ./auto.sh
 
 اموزش های بیش تر در کانال
 
-# [mohammadrezajiji](https://telegram.me/mohammadrezajiji)
+# [اموزش ویدیوی نصب سورس و اتولانچ](https://telegram.me/titantims)
 
 
 ###  Telegram channel:
 
 # [Titanteam](https://telegram.me/titantims)
-
-### thanks to   
-
-# [beyondteam](https://telegram.me/BeyondTeam)
-
-# [luaerror](https://telegram.me/luaerror)
 
 * * *
 》*Please send us your stars☆ at the top of this page*

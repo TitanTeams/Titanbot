@@ -7,8 +7,8 @@
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
-<a href="https://telegram.me/titanteams"><font size="100">parsol.v3</font></a>
-<h3><p dir="rtl">سورسی کاملا فارسی در زمینه تیجی های جدید :)
+<a href="https://telegram.me/titanteams"><font size="100">Titanbot v.1</font></a>
+<h3><p dir="rtl">سورس دو زبانه همراه با کلی امکانات فوق العاده :)
 <br>
 <h3 align="right"> <strong></strong>
 </h3>
@@ -30,11 +30,11 @@
 <h6 dir="rtl"></h6>
 <pre>
 <span>cd $HOME</span>
-<span>git clone https://github.com/mohammadrezatitan/parsol.git</span>
-<span>cd parsol</span>
-<span>chmod +x parsol.sh</span>
-<span>./parsol.sh install</span>
-<span>./parsol.sh</span>
+<span>git clone https://github.com/TitanTeams/Titanbot</span>
+<span>cd Titanbot</span>
+<span>chmod +x Titan.sh</span>
+<span>./Titan.sh install</span>
+<span>./Titan.sh</span>
 </pre>
 <h4 dir="rtl">نصب ربات(روش دوم)
 <br></h4>

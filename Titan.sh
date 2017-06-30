@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/titanbot
+cd $HOME/Titanbot
 
 install() {
 	    cd tg

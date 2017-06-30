@@ -82,17 +82,16 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》parsol v.2
+    info_text = [[》Titanbot v.1
 
 
-》https://github.com/mohammadrezatitan/parsol
+》https://github.com/TitanTeams/Titanbot
 
 》Admins :
 》@mohammadrezajiji 《
 		
-》Special thanks to :
-》@BeyondTeam《
-》@luaerror
+》channel :
+》@Titanteams
 ]],
   }
 	serialize_to_file(config, './data/config.lua')

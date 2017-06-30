@@ -1,4 +1,4 @@
---Begin clean deleted by @SoLiD
+
 local function getChatId(chat_id)
   local chat = {}
   local chat_id = tostring(chat_id)

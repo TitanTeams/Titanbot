@@ -147,7 +147,7 @@ function run(msg, matches)
 		text = text..'\n🌔🌞غروب آفتاب: '..data.Sunset
 		text = text..'\n🌌اذان مغرب: '..data.Maghrib
 		text = text..'\n🌑عشاء : '..data.Isha
-		text = text..'\n@titamtims\n'
+		text = text..'\n@TitanTeams\n'
 		return tdcli.sendMessage(msg.chat_id_, 0, 1, text, 1, 'html')
 	end
 --------------------------------

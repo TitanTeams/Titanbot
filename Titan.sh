@@ -26,11 +26,11 @@ install() {
 
 function print_logo() {
 	echo -e "\033[38;5;600m"
-	echo -e ""
-	echo -e ""
-	echo -e ""
-	echo -e ""
-	echo -e ""
+	echo -e "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT"
+	echo -e "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII"
+	echo -e "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT"
+	echo -e "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+	echo -e "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN"
 	echo -e ""
 	echo -e "\n\e[36m"
 }

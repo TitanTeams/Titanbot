@@ -25,12 +25,12 @@ install() {
 
 function print_logo() {
 	echo -e "\033[38;5;600m"
-	echo -e " |--||--||--|   |--||--||--|   |--|       |--|  |--||--||--|"
-	echo -e " |--|    |--|   |--|    |--|   |--|   |--|      |--|"
-	echo -e " |--||--||--|   |--||--||--|   |--||--|         |--||--||--|"
-	echo -e " |--|                   |--|   |--|                     |--|"
-	echo -e " |--|                          |--|             |--||--||--|"
-	echo -e " |--|"
+	echo -e ""
+	echo -e ""
+	echo -e ""
+	echo -e ""
+	echo -e ""
+	echo -e ""
 	echo -e "\n\e[36m"
 }
 if [ "$1" = "install" ]; then
@@ -46,11 +46,11 @@ if [ ! -f ./tg/tgcli ]; then
 
    print_logo
    echo -e "\033[38;5;208m"
-   echo -e "     >>>>                       parsol :D                      "
-   echo -e "     >>>>                                                    "
-   echo -e "     >>>>                       @mohammadrezajiji ;)                                  "
-   echo -e "     >>>>                                                   "
-   echo -e "     >>>>                       @titantims                                     "
+   echo -e "     >>>>        @TITANTEAMS                                  "
+   echo -e "     >>>>        @TiTanteams                                  "
+   echo -e "     >>>>        @TitanTeams                                  "
+   echo -e "     >>>>        @TiTAnTeams                                  "
+   echo -e "     >>>>        @titanteams                                  "
    echo -e "\033[0;00m"
    echo -e "\e[36m"
    logo_play

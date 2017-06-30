@@ -78,7 +78,6 @@ function create_config( )
 	"me",
 	"mutetime",
 	"pic",
-	"pv",
 	"remapi",
 	"time1",
 	"write",

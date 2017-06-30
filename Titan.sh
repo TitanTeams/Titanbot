@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/parsol
+cd $HOME/titanbot
 
 install() {
 	    cd tg
